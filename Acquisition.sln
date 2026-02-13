@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acquisition", "Acquisition/Acquisition.csproj", "{331040D8-49CB-4644-BD28-0F15346EE119}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E60F2269-6E2B-4D71-96A0-F349E9A4E373}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331040D8-49CB-4644-BD28-0F15346EE119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331040D8-49CB-4644-BD28-0F15346EE119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331040D8-49CB-4644-BD28-0F15346EE119}.Debug|x86.ActiveCfg = Debug|x86
+		{331040D8-49CB-4644-BD28-0F15346EE119}.Debug|x86.Build.0 = Debug|x86
+		{331040D8-49CB-4644-BD28-0F15346EE119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331040D8-49CB-4644-BD28-0F15346EE119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331040D8-49CB-4644-BD28-0F15346EE119}.Release|x86.ActiveCfg = Release|x86
+		{331040D8-49CB-4644-BD28-0F15346EE119}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A242530-4363-4980-96B1-18454F381133}
+	EndGlobalSection
+	GlobalSection(DevPartner Solution Properties) = postSolution
+	EndGlobalSection
+	GlobalSection(DevPartner) = postSolution
+	EndGlobalSection
+	GlobalSection(DevPartner) = postSolution
+	EndGlobalSection
+EndGlobal
