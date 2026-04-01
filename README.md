@@ -1,7 +1,7 @@
 # TwainAcquisitionDemo (Twain Scanning)
 This is the main demo for our DotTwain Acquisition 
 
-This is the C# version
+This is the C# version. We also have a [VB.NET version](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_VB_x86) available.  
 
 NOTE that there is no x64 version. This is due to most TWAIN drivers being native 32 bit.
 
