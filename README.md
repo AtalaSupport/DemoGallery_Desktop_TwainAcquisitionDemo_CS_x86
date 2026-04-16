@@ -7,13 +7,22 @@ NOTE that there is no x64 version. This is due to most TWAIN drivers being nativ
 
 Please see [FAQ: Common Problems with x64 TWAIN Scanning](https://www.atalasoft.com/kb2/KB/50140/FAQ-Common-Problems-with-x64-TWAIN-Scanning)
 
-## Prerequisites
-This demo assumes you have the Atalasoft DOtImage SDK installed, but you only need
-licsning for DotTwain (Or DOtImage Document Imaging)
+
+## Licensing
+This demo assumes you have the Atalasoft DotImage SDK installed, but you only need licsning for DotTwain (Though DotImage Document Imaging is also fine)
 
 You may also request a 30 day evaluation when installing / activating.
 
+
+## SDK Dependencies
+This app was built based on 2026.2.0.0. It targets .NET Framework 4.6.2 and was created in Visual Studio 2019. We use this older Visual Studio as it's the last version that ran natively in x86 for 32 bit compatibility "out of the box". As noted above, the choice to use x86 in TWAIN scanning applications is deliberate as many scanner drivers are not native 64 bit. This gives a wider scanner comptaiblity.
+
 [Download DotImage](https://www.atalasoft.com/BeginDownload/DotImageDownloadPage)
+
+
+## Downloading source
+The sources can be downloaded for [c#](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) and [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)
+
 
 ## Cloning
 We recommend the following to ensure you clone with the required submodule
